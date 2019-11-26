@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/publication_types/1/</link>
+    <description>Recent content in 1 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 23 Nov 2019 10:28:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bidirectional Encoder Representation with Matching Task for Sequential Recommendation</title>
+      <link>https://OwenMasculinity.github.io/zh/publication/bert-with-matching/</link>
+      <pubDate>Sat, 23 Nov 2019 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/publication/bert-with-matching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/post/</link>
+    <description>Recent content in Posts on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>欢迎来到张凌霄的博客</title>
+      <link>https://OwenMasculinity.github.io/zh/post/welcome/</link>
+      <pubDate>Fri, 14 Dec 2018 20:47:31 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/post/welcome/</guid>
+      <description>从现在起，你可以从这里得到关于我的信息。这里是我的家。😄</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website designer for Hugo</title>
+      <link>https://OwenMasculinity.github.io/zh/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/post/getting-started/</guid>
+      <description>Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
+Follow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you&amp;rsquo;ll get in less than 10 minutes.
+ View the documentation Ask a question Request a feature or report a bug Updating?</description>
+    </item>
+    
+  </channel>
+</rss>
