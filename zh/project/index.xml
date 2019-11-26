@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/project/</link>
+    <description>Recent content in Projects on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人脸攻击系统</title>
+      <link>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</guid>
+      <description>对抗攻击能够通过小幅度修改输入图像，使得神经网络等分类器分类错误。能够误导分类器的输入称为对抗样本。 对抗攻击现在是深度学习领域的研究热点，在</description>
+    </item>
+    
+    <item>
+      <title>子·约</title>
+      <link>https://OwenMasculinity.github.io/zh/project/ziyue/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/ziyue/</guid>
+      <description>子·约系列黄金首饰寓意为父母和子女的约定，品牌DNA为陪伴，品牌口号为“和为心，福为愿，子约为伴”。</description>
+    </item>
+    
+    <item>
+      <title>云上空间</title>
+      <link>https://OwenMasculinity.github.io/zh/project/cloud-space/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/cloud-space/</guid>
+      <description>云上空间为社会创新项目，所属城市科学交叉创新领域，致力于为社区提供公共空间更新设计及后续城市社区智慧管理系统一体化解决方案。我们探索社区单位</description>
+    </item>
+    
+    <item>
+      <title>寻忆</title>
+      <link>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</guid>
+      <description>目前，AI技术高速发展，语音、图像、自然语言处理等领域成果不断。然而，AI算法落地成为众多新兴企业深入思考的关键问题。基于图像识别的算法落地</description>
+    </item>
+    
+    <item>
+      <title>标题生成器</title>
+      <link>https://OwenMasculinity.github.io/zh/project/title-trigger/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/title-trigger/</guid>
+      <description>本项目为谷歌AI冬令营项目。 在冬令营期间，我们开发了一款名叫Title Trigger的NLP产品，包括了以下功能：提取式摘要、生成式摘要、文</description>
+    </item>
+    
+    <item>
+      <title>WeCup</title>
+      <link>https://OwenMasculinity.github.io/zh/project/wecup/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/wecup/</guid>
+      <description>WeCup为集成了闹钟提醒装置和药盒的一款智能水杯，旨在为老年人以及有服药习惯的年轻人提供更加方便的服药行为体验，并且改变“忘记吃药，不愿吃</description>
+    </item>
+    
+    <item>
+      <title>迎宾机器人</title>
+      <link>https://OwenMasculinity.github.io/zh/project/rpi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>股票预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/stock-prediction/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/stock-prediction/</guid>
+      <description>本项目为Kaggle数据挖掘竞赛题目。 这次题目主题是使用新闻数据和股票历史数据来预测未来股票数据的涨跌。提出本次比赛题目的公司是美国纽约著名</description>
+    </item>
+    
+    <item>
+      <title>&#39;嗨宝计划&#39;平台</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hi-baby/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hi-baby/</guid>
+      <description>嗨宝计划面向的客户群体是从备孕至孩子6岁以下的妈咪群体，为她们提供社交、记录、学习、购买等功能，一站式服务，让年轻妈们在有趣的社交与记录的同</description>
+    </item>
+    
+    <item>
+      <title>岚</title>
+      <link>https://OwenMasculinity.github.io/zh/project/lan/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/lan/</guid>
+      <description>“岚”由“山”和“风”构成，象征了山中之风，自由、个性、洒脱。品牌slogan为“我的个性，收敛自如”。</description>
+    </item>
+    
+    <item>
+      <title>天气预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</guid>
+      <description>当前，随着中国经济社会迅速发展，政府和广大人民群众对天气预报的准确率和精细化提出了更高的要求，也对天气预报的针对性、通俗性和指导性提出了新的</description>
+    </item>
+    
+    <item>
+      <title>釉料喷涂的方法</title>
+      <link>https://OwenMasculinity.github.io/zh/project/glaze-spraying/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/glaze-spraying/</guid>
+      <description>本项目是2017年亚太数学建模大赛（APMCM）赛题。 釉料喷涂是陶瓷生产中的关键过程，但是如何在各种情况下使釉料涂层均匀仍然是一个令人困惑的</description>
+    </item>
+    
+    <item>
+      <title>一款金融科技产品</title>
+      <link>https://OwenMasculinity.github.io/zh/project/minute-data/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/minute-data/</guid>
+      <description>在当前的互联网大数据时代，众多互联网公司都转型为数据公司。在机器学习和人工智能大热的环境下，优秀、精确的数据无疑是大数据时代的“土壤”。在企</description>
+    </item>
+    
+    <item>
+      <title>智能垃圾桶</title>
+      <link>https://OwenMasculinity.github.io/zh/project/smart-garbage/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/smart-garbage/</guid>
+      <description>一款帮助垃圾分类的智能垃圾桶。</description>
+    </item>
+    
+    <item>
+      <title>黑客马拉松</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hackathon/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国象棋棋子定位与汉字识别</title>
+      <link>https://OwenMasculinity.github.io/zh/project/chinese-chess-recognition/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/chinese-chess-recognition/</guid>
+      <description>棋盘在计算机视觉理论和实践中经常出现，因为其高度结构化的几何形状非常适合算法检测和处理。 在本文中，我们提出了一种可以通过处理棋盘的照片来正确</description>
+    </item>
+    
+    <item>
+      <title> &#39;你好，留学&#39; 平台</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hello-world/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hello-world/</guid>
+      <description>你好，留学项目最终将以智能手机留学APP的形式呈现，该APP主要服务于有出国留学意向的群体，目前以美国研究生申请作为切入点，为他们提供从院校</description>
+    </item>
+    
+    <item>
+      <title>基于通讯数据的社群聚类</title>
+      <link>https://OwenMasculinity.github.io/zh/project/community-clustering/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/community-clustering/</guid>
+      <description>本项目为第十届（2017）华中地区大学生数学建模邀请赛B题论文。本文针对基于通讯数据的社群聚类问题，对社群网络进行了分类，提出了该问题的有效</description>
+    </item>
+    
+    <item>
+      <title>城市智慧增长</title>
+      <link>https://OwenMasculinity.github.io/zh/project/smart-city/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/smart-city/</guid>
+      <description>本项目是2017年美国数学建模大赛(ICM)题目。以下为文章摘要： 随着人口的增加，越来越多的人涌入城市，世界正在迅速城市化。因此，城市规划对</description>
+    </item>
+    
+    <item>
+      <title>农业调查软件</title>
+      <link>https://OwenMasculinity.github.io/zh/project/agi/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/agi/</guid>
+      <description>这是一款用于用于农业调查的软件平台。</description>
+    </item>
+    
+    <item>
+      <title>爱环境</title>
+      <link>https://OwenMasculinity.github.io/zh/project/ienvironment/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/ienvironment/</guid>
+      <description>目前我国环境问题较为严重，一方面环境污染时刻威胁着人们的健康，另一方面一些地区的恶劣气候条件也时常引起自然灾害。但大部分公众获取环境信息的渠</description>
+    </item>
+    
+    <item>
+      <title>小夜灯</title>
+      <link>https://OwenMasculinity.github.io/zh/project/night-light/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/night-light/</guid>
+      <description>一款小夜灯的电路设计。</description>
+    </item>
+    
+    <item>
+      <title>贪吃蛇游戏</title>
+      <link>https://OwenMasculinity.github.io/zh/project/snake-fpga/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/snake-fpga/</guid>
+      <description>一款基于FPGA的贪吃蛇游戏。</description>
+    </item>
+    
+    <item>
+      <title>红外报警器</title>
+      <link>https://OwenMasculinity.github.io/zh/project/infrared-alarm/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/infrared-alarm/</guid>
+      <description>一款红外报警器的电路设计。</description>
+    </item>
+    
+  </channel>
+</rss>
