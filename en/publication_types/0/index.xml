@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/publication_types/0/</link>
+    <description>Recent content in 0 on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 May 2018 10:28:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Sensing Image Classification Based On Deep Learning</title>
+      <link>https://OwenMasculinity.github.io/en/publication/remote-sensing-image-classification/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/publication/remote-sensing-image-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
