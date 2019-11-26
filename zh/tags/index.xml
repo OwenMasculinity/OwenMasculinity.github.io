@@ -7,9 +7,451 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://OwenMasculinity.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academic</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/fpga/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/computer-vision/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/deep-learning/</link>
+      <pubDate>Sat, 23 Nov 2019 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hyperspectral remote sensing image</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/hyperspectral-remote-sensing-image/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/hyperspectral-remote-sensing-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>large-scale and high-spatial resolution image</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/large-scale-and-high-spatial-resolution-image/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/large-scale-and-high-spatial-resolution-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matching</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/matching/</link>
+      <pubDate>Sat, 23 Nov 2019 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recommendation system</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/recommendation-system/</link>
+      <pubDate>Sat, 23 Nov 2019 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/recommendation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scene classification</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/scene-classification/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/scene-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人脸检测</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>农业调查</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%86%9C%E4%B8%9A%E8%B0%83%E6%9F%A5/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%86%9C%E4%B8%9A%E8%B0%83%E6%9F%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>图像处理</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>天气</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%A4%A9%E6%B0%94/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%A4%A9%E6%B0%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>头脑风暴</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%A4%B4%E8%84%91%E9%A3%8E%E6%9A%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>实习</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%AE%9E%E4%B9%A0/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%AE%9E%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>对抗样本</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%AF%B9%E6%8A%97%E6%A0%B7%E6%9C%AC/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%AF%B9%E6%8A%97%E6%A0%B7%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小区域</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%B0%8F%E5%8C%BA%E5%9F%9F/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%B0%8F%E5%8C%BA%E5%9F%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>小夜灯</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%B0%8F%E5%A4%9C%E7%81%AF/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%B0%8F%E5%A4%9C%E7%81%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>屋顶空间</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%B1%8B%E9%A1%B6%E7%A9%BA%E9%97%B4/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%B1%8B%E9%A1%B6%E7%A9%BA%E9%97%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>嵌入式系统</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>平台</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数学建模比赛</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%AF%94%E8%B5%9B/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E6%AF%94%E8%B5%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文本风格迁移</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%96%87%E6%9C%AC%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%96%87%E6%9C%AC%E9%A3%8E%E6%A0%BC%E8%BF%81%E7%A7%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智慧增长</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E6%85%A7%E5%A2%9E%E9%95%BF/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E6%85%A7%E5%A2%9E%E9%95%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能垃圾桶</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能水杯</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E6%B0%B4%E6%9D%AF/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E6%B0%B4%E6%9D%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>服装设计</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器人</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>机器学习</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标签分类</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>标题摘要</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E9%A2%98%E6%91%98%E8%A6%81/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E9%A2%98%E6%91%98%E8%A6%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>检测</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%A3%80%E6%B5%8B/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%A3%80%E6%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>模板匹配</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%A8%A1%E6%9D%BF%E5%8C%B9%E9%85%8D/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%A8%A1%E6%9D%BF%E5%8C%B9%E9%85%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>母婴</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E6%AF%8D%E5%A9%B4/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E6%AF%8D%E5%A9%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>环境</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%8E%AF%E5%A2%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电路设计</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>留学</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%95%99%E5%AD%A6/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%95%99%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>短时</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%9F%AD%E6%97%B6/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%9F%AD%E6%97%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>红外报警器</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%BA%A2%E5%A4%96%E6%8A%A5%E8%AD%A6%E5%99%A8/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%BA%A2%E5%A4%96%E6%8A%A5%E8%AD%A6%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网络爬虫</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自然语言处理</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机视觉</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>贪吃蛇游戏</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E8%B4%AA%E5%90%83%E8%9B%87%E6%B8%B8%E6%88%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>釉料喷涂</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%87%89%E6%96%99%E5%96%B7%E6%B6%82/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%87%89%E6%96%99%E5%96%B7%E6%B6%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>金融科技</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>霍夫变换</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>预测</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%A2%84%E6%B5%8B/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%A2%84%E6%B5%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黄金首饰设计</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>黑客马拉松</title>
+      <link>https://OwenMasculinity.github.io/zh/tags/%E9%BB%91%E5%AE%A2%E9%A9%AC%E6%8B%89%E6%9D%BE/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/tags/%E9%BB%91%E5%AE%A2%E9%A9%AC%E6%8B%89%E6%9D%BE/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

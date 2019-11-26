@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>智能垃圾桶 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/</link>
+    <description>Recent content in 智能垃圾桶 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 26 Aug 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E6%99%BA%E8%83%BD%E5%9E%83%E5%9C%BE%E6%A1%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>智能垃圾桶</title>
+      <link>https://OwenMasculinity.github.io/zh/project/smart-garbage/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/smart-garbage/</guid>
+      <description>一款帮助垃圾分类的智能垃圾桶。</description>
+    </item>
+    
+  </channel>
+</rss>
