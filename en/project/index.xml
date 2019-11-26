@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/project/</link>
+    <description>Recent content in Projects on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face adversarial sample</title>
+      <link>https://OwenMasculinity.github.io/en/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/adversarial-sample/</guid>
+      <description>The demo of the face attack system based on the adversarial sample (black box attack) is completed, which makes the AWS Face Rekognition system incorrectly classify.</description>
+    </item>
+    
+    <item>
+      <title>ZiYue</title>
+      <link>https://OwenMasculinity.github.io/en/project/ziyue/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/ziyue/</guid>
+      <description>ZiYue is the name of a gold jewelry series that means appaintment between parents and children.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Space</title>
+      <link>https://OwenMasculinity.github.io/en/project/cloud-space/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/cloud-space/</guid>
+      <description>This project is a social innovation project that belongs to the intersection of urban science. We are committed to providing the community with public space (e.g., roof space) renewal design and follow-up urban community smart management system integration solution. This project has obtained the first prizes in several entrepreneurial competitions.</description>
+    </item>
+    
+    <item>
+      <title>Remembrance</title>
+      <link>https://OwenMasculinity.github.io/en/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/seek-memory-album/</guid>
+      <description>At present, AI technology is developing at a high speed and has achieved remarkable results in the fields of voice, image, and natural language processing. Based on image and video fingerprint technology, we have built a smart cloud photo album platform, which aims to be a good helper for users to quickly and accurately find photoes.
+Given main features of the album, we name the platform Remembrance that is intended to find memories.</description>
+    </item>
+    
+    <item>
+      <title>Title Trigger: All titles you want</title>
+      <link>https://OwenMasculinity.github.io/en/project/title-trigger/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/title-trigger/</guid>
+      <description>This is a project from Google AI ML Winter Camp (2019). In the camp, we developed a NLP Project called Title Trigger, including extraction &amp;amp; abstraction, generation, text style transferring, etc. in different dimensions, using a bunch of latest technology to achieve the best performance. The training speed was dramatically improved. Finally, our project obtained Most Technical Award.</description>
+    </item>
+    
+    <item>
+      <title>WeCup</title>
+      <link>https://OwenMasculinity.github.io/en/project/wecup/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/wecup/</guid>
+      <description>We developed a smart water cup WeCup, integrating an alarm clock and serverl medicine boxes, to provide a more convenient medication experience for the elderly and young people with medication habits, and change the status quo of “forgetting to take medicine, not wanting to take medicine”.</description>
+    </item>
+    
+    <item>
+      <title>Usher Robot</title>
+      <link>https://OwenMasculinity.github.io/en/project/rpi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stock Prediction</title>
+      <link>https://OwenMasculinity.github.io/en/project/stock-prediction/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/stock-prediction/</guid>
+      <description>This is Kaggle data mining competition. By analyzing news data to predict stock prices, Kagglers have a unique opportunity to advance the state of research in understanding the predictive power of the news. This power, if harnessed, could help predict financial outcomes and generate significant economic impact all over the world.
+During that, we developed the stock forecasting system based financial data and news data, using XGboost, Estimation Distribution Algorithm(EDA) and we got top 2% final result around the world.</description>
+    </item>
+    
+    <item>
+      <title>Hi Baby</title>
+      <link>https://OwenMasculinity.github.io/en/project/hi-baby/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hi-baby/</guid>
+      <description>We developed a maternal community platform named Hi Baby that provides new mothers with communication, diary, baby goods online store, etc.</description>
+    </item>
+    
+    <item>
+      <title>Lan</title>
+      <link>https://OwenMasculinity.github.io/en/project/lan/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/lan/</guid>
+      <description>Lan is the name of a clothing series that is wind in the mountain and represents introverted personality.</description>
+    </item>
+    
+    <item>
+      <title>Glaze Spraying</title>
+      <link>https://OwenMasculinity.github.io/en/project/glaze-spraying/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/glaze-spraying/</guid>
+      <description>Glaze spraying is a key process in ceramic production, yet how to make the glaze coating uniform in various situations is a rather confusing issue. We have to set up different models at different times. If we can find a relatively universal strategy, much time can be saved.
+In this paper, we adopt elliptic double β distribution model to obtain the thickness cumulative model on planes and solve Issue 1. Then we modify the basic model to make it applicable when dealing with curved surfaces and spheres.</description>
+    </item>
+    
+    <item>
+      <title>Weather Forecast</title>
+      <link>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</guid>
+      <description>At present, with the rapid development of China&amp;rsquo;s economy and society, the government and the general public have put forward higher requirements for the accuracy and refinement of weather forecasts, and have also put forward new demands for the pertinence, popularity, and guidance of weather forecasts; At the same time, meteorological disaster prevention and mitigation also require the monitoring of severe weather and meteorological disasters and the improvement of forecasting and early warning capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Minute Data (fintech company)</title>
+      <link>https://OwenMasculinity.github.io/en/project/minute-data/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/minute-data/</guid>
+      <description>In the current era of Internet and big data, many Internet companies have transformed into data companies. In the environment of machine learning and artificial intelligence, excellent and accurate data is undoubtedly the &amp;ldquo;soil&amp;rdquo; of the era of big data.
+During the internship period, I was mainly engaged in the position of data development engineer and contacted learned data acquisition, data storage, data inspection (data crawling), data cleaning, data processing, data mining and other processes.</description>
+    </item>
+    
+    <item>
+      <title>Smart Garbage</title>
+      <link>https://OwenMasculinity.github.io/en/project/smart-garbage/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/smart-garbage/</guid>
+      <description>This is design for a smart garbage.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon</title>
+      <link>https://OwenMasculinity.github.io/en/project/hackathon/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coordinate and Characters Recognition of Chinese Chess</title>
+      <link>https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/</guid>
+      <description>Chessboards arise frequently in computer vision theory and practice because their highly structured geometry is well-suited for algorithmic detection and processing. In this paper, we present an algorithm that can correctly recognize the state of a Chinese chess game by processing a photo of the chessboard. Some major steps of the algorithm include chessboard rectification using Hough transformation, geometric operation and edge detection, chess piece detection using circular Hough transformation, chess piece recognition using color classification and template matching.</description>
+    </item>
+    
+    <item>
+      <title> &#39;Hello world&#39; study abroad</title>
+      <link>https://OwenMasculinity.github.io/en/project/hello-world/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hello-world/</guid>
+      <description>&amp;lsquo;Hello world&amp;rsquo; is a study-abroad platform. Currently, we regard the US graduate application as an entry point. We provide a series of service, such as college selection, porcelain, writing or interview skills, visa processing, etc. so that enable students to increase the chances of applying to their favorite colleges on a minimum cost.</description>
+    </item>
+    
+    <item>
+      <title>Community Clustering Based On Communication Data</title>
+      <link>https://OwenMasculinity.github.io/en/project/community-clustering/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/community-clustering/</guid>
+      <description>In this paper, the community clustering problem based on communication data is used to classify the social network, and an effective algorithm for the problem is proposed. A reasonable delivery scheme is given under the premise of satisfying the maximum information coverage and the minimum cost. On this basis, considering the influence of multiple factors, the communication networks given in the question are reclassified.</description>
+    </item>
+    
+    <item>
+      <title>Smart Growth of Cities</title>
+      <link>https://OwenMasculinity.github.io/en/project/smart-city/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/smart-city/</guid>
+      <description>With the increase of population, more and more people are pouring into cities. The world is rapidly urbanizing. Consequently, urban planning has become increasingly important and necessary to ensure that people have access to equitable and sustainable homes, resources and jobs.
+Smart growth focuses on building cities that embraces the E’s of sustainability—Economically prosperous, socially Equitable, and Environmentally Sustainable. To measure how successful the city meets the goal of smart growth, we propose a metric model to identify the degree of smart growth, and evaluate two cities’ metric.</description>
+    </item>
+    
+    <item>
+      <title>Agriculture Investigation Application</title>
+      <link>https://OwenMasculinity.github.io/en/project/agi/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/agi/</guid>
+      <description>This is an application for agriculture investigation.</description>
+    </item>
+    
+    <item>
+      <title>iEnvironment</title>
+      <link>https://OwenMasculinity.github.io/en/project/ienvironment/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/ienvironment/</guid>
+      <description>At present, China&amp;rsquo;s environmental problems are more serious, on the one hand, environmental pollution threat to people&amp;rsquo;s health, on the other hand, some areas of bad weather conditions are often caused by natural disasters. But most of the public access to environmental information channels a single, not timely, can not accurately predict the future trend of environmental changes in the period; more importantly, the public exposure to meteorological, environmental and other information for the local authorities based on the region The data of several observatories are released uniformly.</description>
+    </item>
+    
+    <item>
+      <title>Night Light</title>
+      <link>https://OwenMasculinity.github.io/en/project/night-light/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/night-light/</guid>
+      <description>This is design for a night light circuit.</description>
+    </item>
+    
+    <item>
+      <title>Snake Game</title>
+      <link>https://OwenMasculinity.github.io/en/project/snake-fpga/</link>
+      <pubDate>Sun, 03 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/snake-fpga/</guid>
+      <description>This is the snake game based on FPGA.</description>
+    </item>
+    
+    <item>
+      <title>Infrared Alarm</title>
+      <link>https://OwenMasculinity.github.io/en/project/infrared-alarm/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/infrared-alarm/</guid>
+      <description>This is design for an infrared alarm circuit.</description>
+    </item>
+    
+  </channel>
+</rss>
