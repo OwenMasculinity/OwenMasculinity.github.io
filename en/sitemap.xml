@@ -4,7 +4,109 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/post/myfirstarticle/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication/bert-with-matching/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication/bert-with-matching/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/publication/bert-with-matching/</loc>
+      <lastmod>2019-11-23T10:28:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/adversarial-sample/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/adversarial-sample/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/adversarial-sample/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/ziyue/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/ziyue/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/ziyue/</loc>
+      <lastmod>2019-05-26T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/cloud-space/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/cloud-space/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/cloud-space/</loc>
+      <lastmod>2019-05-19T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/seek-memory-album/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/seek-memory-album/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/seek-memory-album/</loc>
+      <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/title-trigger/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/title-trigger/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/title-trigger/</loc>
+      <lastmod>2019-01-24T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/wecup/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/wecup/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/wecup/</loc>
+      <lastmod>2019-01-09T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/rpi/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/rpi/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/rpi/</loc>
+      <lastmod>2018-12-21T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/stock-prediction/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/stock-prediction/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/stock-prediction/</loc>
+      <lastmod>2018-12-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/post/welcome/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/post/welcome/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/post/welcome/</loc>
       <lastmod>2018-12-14T20:47:31+08:00</lastmod>
     </url>
     
@@ -12,7 +114,29 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/tutorial/example/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/hi-baby/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/hi-baby/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/hi-baby/</loc>
+      <lastmod>2018-11-13T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/lan/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/lan/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/lan/</loc>
+      <lastmod>2018-09-13T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
@@ -20,7 +144,7 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/tutorial/</loc>
+      <loc>https://OwenMasculinity.github.io/en/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+08:00</lastmod>
     </url>
     
@@ -28,7 +152,117 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/talk/example/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication/remote-sensing-image-classification/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication/remote-sensing-image-classification/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/publication/remote-sensing-image-classification/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/glaze-spraying/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/glaze-spraying/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/glaze-spraying/</loc>
+      <lastmod>2018-04-25T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/meteorological-prediction/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/meteorological-prediction/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</loc>
+      <lastmod>2018-04-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/minute-data/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/minute-data/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/minute-data/</loc>
+      <lastmod>2017-12-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/smart-garbage/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/smart-garbage/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/smart-garbage/</loc>
+      <lastmod>2017-08-26T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/hackathon/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/hackathon/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/hackathon/</loc>
+      <lastmod>2017-07-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/chinese-chess-recognition/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/hello-world/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/hello-world/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/hello-world/</loc>
+      <lastmod>2017-05-14T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/community-clustering/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/community-clustering/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/community-clustering/</loc>
+      <lastmod>2017-05-01T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/smart-city/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/smart-city/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/smart-city/</loc>
+      <lastmod>2017-02-14T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -36,7 +270,10 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/post/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/post/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/post/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -44,7 +281,10 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/publication/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/publication/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -52,7 +292,7 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/talk/</loc>
+      <loc>https://OwenMasculinity.github.io/en/talk/</loc>
       <lastmod>2017-01-01T00:00:00+08:00</lastmod>
     </url>
     
@@ -60,23 +300,32 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/agi/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/agi/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/agi/</loc>
+      <lastmod>2016-10-07T00:00:00+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/ienvironment/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/ienvironment/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/ienvironment/</loc>
+      <lastmod>2016-06-19T00:00:00+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/post/getting-started/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/post/getting-started/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/post/getting-started/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
     </url>
     
@@ -84,24 +333,44 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/night-light/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/night-light/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/night-light/</loc>
+      <lastmod>2016-01-06T00:00:00+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/snake-fpga/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/snake-fpga/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/snake-fpga/</loc>
+      <lastmod>2016-01-03T00:00:00+08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/infrared-alarm/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/infrared-alarm/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/infrared-alarm/</loc>
+      <lastmod>2015-10-25T00:00:00+08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication_types/0/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication_types/0/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/publication_types/0/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -109,8 +378,11 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication_types/1/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication_types/1/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/publication_types/1/</loc>
+      <lastmod>2019-11-23T10:28:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,7 +390,19 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/tags/academic/</loc>
+      <loc>https://OwenMasculinity.github.io/en/tags/agi/</loc>
+      <lastmod>2016-10-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/academic/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/academic/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,10 +411,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/categories/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/categories/" hreflang="zh"/>
     
-      <loc>https://OwenMasculinity.github.io/categories/</loc>
+      <loc>https://OwenMasculinity.github.io/en/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -138,8 +422,11 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/fpga/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/fpga/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/fpga/</loc>
+      <lastmod>2016-01-03T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -147,16 +434,10 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/categories/introduction/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/categories/introduction/" hreflang="zh"/>
     
-  
-    
-    <url>
-    
-      <loc>https://OwenMasculinity.github.io/categories/introduction/</loc>
+      <loc>https://OwenMasculinity.github.io/en/categories/introduction/</loc>
       <lastmod>2018-12-14T20:47:31+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -165,10 +446,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/" hreflang="zh"/>
     
-      <loc>https://OwenMasculinity.github.io/</loc>
+      <loc>https://OwenMasculinity.github.io/en/</loc>
       <lastmod>2017-10-15T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,8 +458,11 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/project/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/project/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -186,11 +470,11 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/publication_types/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/publication_types/" hreflang="zh"/>
     
-      <loc>https://OwenMasculinity.github.io/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+08:00</lastmod>
+      <loc>https://OwenMasculinity.github.io/en/publication_types/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -198,7 +482,10 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/slides/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/slides/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -206,18 +493,438 @@
     
     <url>
     
-      <loc>https://OwenMasculinity.github.io/slides/example-slides/</loc>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/slides/example-slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/slides/example-slides/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/" hreflang="zh"/>
     
-      <loc>https://OwenMasculinity.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
+      <loc>https://OwenMasculinity.github.io/en/tags/</loc>
+      <lastmod>2016-10-07T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/adversarial-sample/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/brainstorming/</loc>
+      <lastmod>2017-07-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/circuit-design/</loc>
+      <lastmod>2016-01-06T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/clothes-design/</loc>
+      <lastmod>2018-09-13T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/computer-vision/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/computer-vision/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/computer-vision/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/deep-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/deep-learning/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/deep-learning/</loc>
+      <lastmod>2019-11-23T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/detection/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/embedded-system/</loc>
+      <lastmod>2018-12-21T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/embeded-system/</loc>
+      <lastmod>2019-01-09T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/environment/</loc>
+      <lastmod>2016-06-19T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/face-recognition/</loc>
+      <lastmod>2019-06-12T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/fintech/</loc>
+      <lastmod>2017-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/glaze-spraying/</loc>
+      <lastmod>2018-04-25T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/gold-jewelry-design/</loc>
+      <lastmod>2019-05-26T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/hackathon/</loc>
+      <lastmod>2017-07-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/hough-transform/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/hyperspectral-remote-sensing-image/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/hyperspectral-remote-sensing-image/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/hyperspectral-remote-sensing-image/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/image-processing/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/infrared-alarm/</loc>
+      <lastmod>2015-10-25T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/intern/</loc>
+      <lastmod>2017-12-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/large-scale-and-high-spatial-resolution-image/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/large-scale-and-high-spatial-resolution-image/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/large-scale-and-high-spatial-resolution-image/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/machine-learning/</loc>
+      <lastmod>2018-12-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/matching/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/matching/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/matching/</loc>
+      <lastmod>2019-11-23T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/mathematical-model-competition/</loc>
+      <lastmod>2018-04-25T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/natural-language-processing/</loc>
+      <lastmod>2019-01-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/night-light/</loc>
+      <lastmod>2016-01-06T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/platform/</loc>
+      <lastmod>2019-05-19T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/prediction/</loc>
+      <lastmod>2018-12-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/recommendation-system/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/recommendation-system/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/recommendation-system/</loc>
+      <lastmod>2019-11-23T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/robot/</loc>
+      <lastmod>2018-12-21T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/roof-space/</loc>
+      <lastmod>2019-05-19T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/en/tags/scene-classification/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://OwenMasculinity.github.io/zh/tags/scene-classification/" hreflang="zh"/>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/scene-classification/</loc>
+      <lastmod>2018-05-20T10:28:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/short-time/</loc>
+      <lastmod>2018-04-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/small-area/</loc>
+      <lastmod>2018-04-01T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/smart-cup/</loc>
+      <lastmod>2019-01-09T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/smart-garbage/</loc>
+      <lastmod>2017-08-26T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/smart-growth/</loc>
+      <lastmod>2017-02-14T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/snake-game/</loc>
+      <lastmod>2016-01-03T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/study-abroad/</loc>
+      <lastmod>2017-05-14T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/tag-classification/</loc>
+      <lastmod>2019-01-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/template-matching/</loc>
+      <lastmod>2017-06-20T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/text-style-transferring/</loc>
+      <lastmod>2019-01-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/title-summarization/</loc>
+      <lastmod>2019-01-24T00:00:00+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://OwenMasculinity.github.io/en/tags/weather/</loc>
+      <lastmod>2018-04-01T00:00:00+08:00</lastmod>
       <priority>0</priority>
     </url>
     
