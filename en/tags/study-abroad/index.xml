@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>study abroad on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/study-abroad/</link>
+    <description>Recent content in study abroad on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 14 May 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/study-abroad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> &#39;Hello world&#39; study abroad</title>
+      <link>https://OwenMasculinity.github.io/en/project/hello-world/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hello-world/</guid>
+      <description>&amp;lsquo;Hello world&amp;rsquo; is a study-abroad platform. Currently, we regard the US graduate application as an entry point. We provide a series of service, such as college selection, porcelain, writing or interview skills, visa processing, etc. so that enable students to increase the chances of applying to their favorite colleges on a minimum cost.</description>
+    </item>
+    
+  </channel>
+</rss>

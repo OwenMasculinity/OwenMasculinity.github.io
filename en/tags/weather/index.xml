@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>weather on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/weather/</link>
+    <description>Recent content in weather on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/weather/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weather Forecast</title>
+      <link>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</guid>
+      <description>At present, with the rapid development of China&amp;rsquo;s economy and society, the government and the general public have put forward higher requirements for the accuracy and refinement of weather forecasts, and have also put forward new demands for the pertinence, popularity, and guidance of weather forecasts; At the same time, meteorological disaster prevention and mitigation also require the monitoring of severe weather and meteorological disasters and the improvement of forecasting and early warning capabilities.</description>
+    </item>
+    
+    <item>
+      <title>iEnvironment</title>
+      <link>https://OwenMasculinity.github.io/en/project/ienvironment/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/ienvironment/</guid>
+      <description>At present, China&amp;rsquo;s environmental problems are more serious, on the one hand, environmental pollution threat to people&amp;rsquo;s health, on the other hand, some areas of bad weather conditions are often caused by natural disasters. But most of the public access to environmental information channels a single, not timely, can not accurately predict the future trend of environmental changes in the period; more importantly, the public exposure to meteorological, environmental and other information for the local authorities based on the region The data of several observatories are released uniformly.</description>
+    </item>
+    
+  </channel>
+</rss>

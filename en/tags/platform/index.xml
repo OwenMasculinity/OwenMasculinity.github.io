@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>platform on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/platform/</link>
+    <description>Recent content in platform on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/platform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud Space</title>
+      <link>https://OwenMasculinity.github.io/en/project/cloud-space/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/cloud-space/</guid>
+      <description>This project is a social innovation project that belongs to the intersection of urban science. We are committed to providing the community with public space (e.g., roof space) renewal design and follow-up urban community smart management system integration solution. This project has obtained the first prizes in several entrepreneurial competitions.</description>
+    </item>
+    
+    <item>
+      <title>Remembrance</title>
+      <link>https://OwenMasculinity.github.io/en/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/seek-memory-album/</guid>
+      <description>At present, AI technology is developing at a high speed and has achieved remarkable results in the fields of voice, image, and natural language processing. Based on image and video fingerprint technology, we have built a smart cloud photo album platform, which aims to be a good helper for users to quickly and accurately find photoes.
+Given main features of the album, we name the platform Remembrance that is intended to find memories.</description>
+    </item>
+    
+    <item>
+      <title>Hi Baby</title>
+      <link>https://OwenMasculinity.github.io/en/project/hi-baby/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hi-baby/</guid>
+      <description>We developed a maternal community platform named Hi Baby that provides new mothers with communication, diary, baby goods online store, etc.</description>
+    </item>
+    
+    <item>
+      <title> &#39;Hello world&#39; study abroad</title>
+      <link>https://OwenMasculinity.github.io/en/project/hello-world/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/hello-world/</guid>
+      <description>&amp;lsquo;Hello world&amp;rsquo; is a study-abroad platform. Currently, we regard the US graduate application as an entry point. We provide a series of service, such as college selection, porcelain, writing or interview skills, visa processing, etc. so that enable students to increase the chances of applying to their favorite colleges on a minimum cost.</description>
+    </item>
+    
+    <item>
+      <title>Agriculture Investigation Application</title>
+      <link>https://OwenMasculinity.github.io/en/project/agi/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/agi/</guid>
+      <description>This is an application for agriculture investigation.</description>
+    </item>
+    
+    <item>
+      <title>iEnvironment</title>
+      <link>https://OwenMasculinity.github.io/en/project/ienvironment/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/ienvironment/</guid>
+      <description>At present, China&amp;rsquo;s environmental problems are more serious, on the one hand, environmental pollution threat to people&amp;rsquo;s health, on the other hand, some areas of bad weather conditions are often caused by natural disasters. But most of the public access to environmental information channels a single, not timely, can not accurately predict the future trend of environmental changes in the period; more importantly, the public exposure to meteorological, environmental and other information for the local authorities based on the region The data of several observatories are released uniformly.</description>
+    </item>
+    
+  </channel>
+</rss>

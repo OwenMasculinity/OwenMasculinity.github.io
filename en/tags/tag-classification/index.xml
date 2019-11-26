@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag classification on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/tag-classification/</link>
+    <description>Recent content in tag classification on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/tag-classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Title Trigger: All titles you want</title>
+      <link>https://OwenMasculinity.github.io/en/project/title-trigger/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/title-trigger/</guid>
+      <description>This is a project from Google AI ML Winter Camp (2019). In the camp, we developed a NLP Project called Title Trigger, including extraction &amp;amp; abstraction, generation, text style transferring, etc. in different dimensions, using a bunch of latest technology to achieve the best performance. The training speed was dramatically improved. Finally, our project obtained Most Technical Award.</description>
+    </item>
+    
+  </channel>
+</rss>

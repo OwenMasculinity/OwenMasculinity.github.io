@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embeded system on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/embeded-system/</link>
+    <description>Recent content in embeded system on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/embeded-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WeCup</title>
+      <link>https://OwenMasculinity.github.io/en/project/wecup/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/wecup/</guid>
+      <description>We developed a smart water cup WeCup, integrating an alarm clock and serverl medicine boxes, to provide a more convenient medication experience for the elderly and young people with medication habits, and change the status quo of “forgetting to take medicine, not wanting to take medicine”.</description>
+    </item>
+    
+  </channel>
+</rss>

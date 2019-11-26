@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hough transform on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/hough-transform/</link>
+    <description>Recent content in hough transform on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/hough-transform/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordinate and Characters Recognition of Chinese Chess</title>
+      <link>https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/chinese-chess-recognition/</guid>
+      <description>Chessboards arise frequently in computer vision theory and practice because their highly structured geometry is well-suited for algorithmic detection and processing. In this paper, we present an algorithm that can correctly recognize the state of a Chinese chess game by processing a photo of the chessboard. Some major steps of the algorithm include chessboard rectification using Hough transformation, geometric operation and edge detection, chess piece detection using circular Hough transformation, chess piece recognition using color classification and template matching.</description>
+    </item>
+    
+  </channel>
+</rss>

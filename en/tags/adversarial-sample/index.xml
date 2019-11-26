@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adversarial sample on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/adversarial-sample/</link>
+    <description>Recent content in adversarial sample on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/adversarial-sample/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Face adversarial sample</title>
+      <link>https://OwenMasculinity.github.io/en/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/adversarial-sample/</guid>
+      <description>The demo of the face attack system based on the adversarial sample (black box attack) is completed, which makes the AWS Face Rekognition system incorrectly classify.</description>
+    </item>
+    
+  </channel>
+</rss>

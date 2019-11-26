@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>glaze spraying on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/glaze-spraying/</link>
+    <description>Recent content in glaze spraying on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/glaze-spraying/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glaze Spraying</title>
+      <link>https://OwenMasculinity.github.io/en/project/glaze-spraying/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/glaze-spraying/</guid>
+      <description>Glaze spraying is a key process in ceramic production, yet how to make the glaze coating uniform in various situations is a rather confusing issue. We have to set up different models at different times. If we can find a relatively universal strategy, much time can be saved.
+In this paper, we adopt elliptic double β distribution model to obtain the thickness cumulative model on planes and solve Issue 1. Then we modify the basic model to make it applicable when dealing with curved surfaces and spheres.</description>
+    </item>
+    
+  </channel>
+</rss>

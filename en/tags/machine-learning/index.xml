@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stock Prediction</title>
+      <link>https://OwenMasculinity.github.io/en/project/stock-prediction/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/stock-prediction/</guid>
+      <description>This is Kaggle data mining competition. By analyzing news data to predict stock prices, Kagglers have a unique opportunity to advance the state of research in understanding the predictive power of the news. This power, if harnessed, could help predict financial outcomes and generate significant economic impact all over the world.
+During that, we developed the stock forecasting system based financial data and news data, using XGboost, Estimation Distribution Algorithm(EDA) and we got top 2% final result around the world.</description>
+    </item>
+    
+    <item>
+      <title>Weather Forecast</title>
+      <link>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/meteorological-prediction/</guid>
+      <description>At present, with the rapid development of China&amp;rsquo;s economy and society, the government and the general public have put forward higher requirements for the accuracy and refinement of weather forecasts, and have also put forward new demands for the pertinence, popularity, and guidance of weather forecasts; At the same time, meteorological disaster prevention and mitigation also require the monitoring of severe weather and meteorological disasters and the improvement of forecasting and early warning capabilities.</description>
+    </item>
+    
+    <item>
+      <title>Community Clustering Based On Communication Data</title>
+      <link>https://OwenMasculinity.github.io/en/project/community-clustering/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/community-clustering/</guid>
+      <description>In this paper, the community clustering problem based on communication data is used to classify the social network, and an effective algorithm for the problem is proposed. A reasonable delivery scheme is given under the premise of satisfying the maximum information coverage and the minimum cost. On this basis, considering the influence of multiple factors, the communication networks given in the question are reclassified.</description>
+    </item>
+    
+    <item>
+      <title>Smart Growth of Cities</title>
+      <link>https://OwenMasculinity.github.io/en/project/smart-city/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/smart-city/</guid>
+      <description>With the increase of population, more and more people are pouring into cities. The world is rapidly urbanizing. Consequently, urban planning has become increasingly important and necessary to ensure that people have access to equitable and sustainable homes, resources and jobs.
+Smart growth focuses on building cities that embraces the E’s of sustainability—Economically prosperous, socially Equitable, and Environmentally Sustainable. To measure how successful the city meets the goal of smart growth, we propose a metric model to identify the degree of smart growth, and evaluate two cities’ metric.</description>
+    </item>
+    
+  </channel>
+</rss>

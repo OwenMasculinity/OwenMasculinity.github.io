@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>embedded system on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/embedded-system/</link>
+    <description>Recent content in embedded system on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/embedded-system/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usher Robot</title>
+      <link>https://OwenMasculinity.github.io/en/project/rpi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Garbage</title>
+      <link>https://OwenMasculinity.github.io/en/project/smart-garbage/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/smart-garbage/</guid>
+      <description>This is design for a smart garbage.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>circuit design on Lingxiao Zhang&#39;s Blog</title>
+    <link>https://OwenMasculinity.github.io/en/tags/circuit-design/</link>
+    <description>Recent content in circuit design on Lingxiao Zhang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 06 Jan 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/en/tags/circuit-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Night Light</title>
+      <link>https://OwenMasculinity.github.io/en/project/night-light/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/night-light/</guid>
+      <description>This is design for a night light circuit.</description>
+    </item>
+    
+    <item>
+      <title>Infrared Alarm</title>
+      <link>https://OwenMasculinity.github.io/en/project/infrared-alarm/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/en/project/infrared-alarm/</guid>
+      <description>This is design for an infrared alarm circuit.</description>
+    </item>
+    
+  </channel>
+</rss>
