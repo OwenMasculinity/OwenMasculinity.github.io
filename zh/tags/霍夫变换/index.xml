@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>霍夫变换 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2/</link>
+    <description>Recent content in 霍夫变换 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E9%9C%8D%E5%A4%AB%E5%8F%98%E6%8D%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>中国象棋棋子定位与汉字识别</title>
+      <link>https://OwenMasculinity.github.io/zh/project/chinese-chess-recognition/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/chinese-chess-recognition/</guid>
+      <description>棋盘在计算机视觉理论和实践中经常出现，因为其高度结构化的几何形状非常适合算法检测和处理。 在本文中，我们提出了一种可以通过处理棋盘的照片来正确</description>
+    </item>
+    
+  </channel>
+</rss>

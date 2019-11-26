@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer vision on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/computer-vision/</link>
+    <description>Recent content in computer vision on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 May 2018 10:28:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Sensing Image Classification Based On Deep Learning</title>
+      <link>https://OwenMasculinity.github.io/zh/publication/remote-sensing-image-classification/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/publication/remote-sensing-image-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

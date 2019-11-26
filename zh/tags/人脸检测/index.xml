@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>人脸检测 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/</link>
+    <description>Recent content in 人脸检测 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人脸攻击系统</title>
+      <link>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</guid>
+      <description>对抗攻击能够通过小幅度修改输入图像，使得神经网络等分类器分类错误。能够误导分类器的输入称为对抗样本。 对抗攻击现在是深度学习领域的研究热点，在</description>
+    </item>
+    
+  </channel>
+</rss>

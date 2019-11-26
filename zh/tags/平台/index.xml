@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>平台 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E5%B9%B3%E5%8F%B0/</link>
+    <description>Recent content in 平台 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E5%B9%B3%E5%8F%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>云上空间</title>
+      <link>https://OwenMasculinity.github.io/zh/project/cloud-space/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/cloud-space/</guid>
+      <description>云上空间为社会创新项目，所属城市科学交叉创新领域，致力于为社区提供公共空间更新设计及后续城市社区智慧管理系统一体化解决方案。我们探索社区单位</description>
+    </item>
+    
+    <item>
+      <title>寻忆</title>
+      <link>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</guid>
+      <description>目前，AI技术高速发展，语音、图像、自然语言处理等领域成果不断。然而，AI算法落地成为众多新兴企业深入思考的关键问题。基于图像识别的算法落地</description>
+    </item>
+    
+    <item>
+      <title>&#39;嗨宝计划&#39;平台</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hi-baby/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hi-baby/</guid>
+      <description>嗨宝计划面向的客户群体是从备孕至孩子6岁以下的妈咪群体，为她们提供社交、记录、学习、购买等功能，一站式服务，让年轻妈们在有趣的社交与记录的同</description>
+    </item>
+    
+    <item>
+      <title> &#39;你好，留学&#39; 平台</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hello-world/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hello-world/</guid>
+      <description>你好，留学项目最终将以智能手机留学APP的形式呈现，该APP主要服务于有出国留学意向的群体，目前以美国研究生申请作为切入点，为他们提供从院校</description>
+    </item>
+    
+    <item>
+      <title>农业调查软件</title>
+      <link>https://OwenMasculinity.github.io/zh/project/agi/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/agi/</guid>
+      <description>这是一款用于用于农业调查的软件平台。</description>
+    </item>
+    
+    <item>
+      <title>爱环境</title>
+      <link>https://OwenMasculinity.github.io/zh/project/ienvironment/</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/ienvironment/</guid>
+      <description>目前我国环境问题较为严重，一方面环境污染时刻威胁着人们的健康，另一方面一些地区的恶劣气候条件也时常引起自然灾害。但大部分公众获取环境信息的渠</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签分类 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB/</link>
+    <description>Recent content in 标签分类 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>标题生成器</title>
+      <link>https://OwenMasculinity.github.io/zh/project/title-trigger/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/title-trigger/</guid>
+      <description>本项目为谷歌AI冬令营项目。 在冬令营期间，我们开发了一款名叫Title Trigger的NLP产品，包括了以下功能：提取式摘要、生成式摘要、文</description>
+    </item>
+    
+  </channel>
+</rss>

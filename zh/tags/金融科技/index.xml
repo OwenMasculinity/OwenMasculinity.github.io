@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>金融科技 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/</link>
+    <description>Recent content in 金融科技 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一款金融科技产品</title>
+      <link>https://OwenMasculinity.github.io/zh/project/minute-data/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/minute-data/</guid>
+      <description>在当前的互联网大数据时代，众多互联网公司都转型为数据公司。在机器学习和人工智能大热的环境下，优秀、精确的数据无疑是大数据时代的“土壤”。在企</description>
+    </item>
+    
+  </channel>
+</rss>

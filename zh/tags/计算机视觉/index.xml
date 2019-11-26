@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>计算机视觉 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+    <description>Recent content in 计算机视觉 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>人脸攻击系统</title>
+      <link>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</guid>
+      <description>对抗攻击能够通过小幅度修改输入图像，使得神经网络等分类器分类错误。能够误导分类器的输入称为对抗样本。 对抗攻击现在是深度学习领域的研究热点，在</description>
+    </item>
+    
+    <item>
+      <title>寻忆</title>
+      <link>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</guid>
+      <description>目前，AI技术高速发展，语音、图像、自然语言处理等领域成果不断。然而，AI算法落地成为众多新兴企业深入思考的关键问题。基于图像识别的算法落地</description>
+    </item>
+    
+  </channel>
+</rss>

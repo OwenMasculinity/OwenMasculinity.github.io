@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>嵌入式系统 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/</link>
+    <description>Recent content in 嵌入式系统 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WeCup</title>
+      <link>https://OwenMasculinity.github.io/zh/project/wecup/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/wecup/</guid>
+      <description>WeCup为集成了闹钟提醒装置和药盒的一款智能水杯，旨在为老年人以及有服药习惯的年轻人提供更加方便的服药行为体验，并且改变“忘记吃药，不愿吃</description>
+    </item>
+    
+    <item>
+      <title>迎宾机器人</title>
+      <link>https://OwenMasculinity.github.io/zh/project/rpi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能垃圾桶</title>
+      <link>https://OwenMasculinity.github.io/zh/project/smart-garbage/</link>
+      <pubDate>Sat, 26 Aug 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/smart-garbage/</guid>
+      <description>一款帮助垃圾分类的智能垃圾桶。</description>
+    </item>
+    
+  </channel>
+</rss>

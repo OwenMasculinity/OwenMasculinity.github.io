@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>机器学习 on 张凌霄的个人网站</title>
+    <link>https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 机器学习 on 张凌霄的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://OwenMasculinity.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>股票预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/stock-prediction/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/stock-prediction/</guid>
+      <description>本项目为Kaggle数据挖掘竞赛题目。 这次题目主题是使用新闻数据和股票历史数据来预测未来股票数据的涨跌。提出本次比赛题目的公司是美国纽约著名</description>
+    </item>
+    
+    <item>
+      <title>天气预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</guid>
+      <description>当前，随着中国经济社会迅速发展，政府和广大人民群众对天气预报的准确率和精细化提出了更高的要求，也对天气预报的针对性、通俗性和指导性提出了新的</description>
+    </item>
+    
+    <item>
+      <title>基于通讯数据的社群聚类</title>
+      <link>https://OwenMasculinity.github.io/zh/project/community-clustering/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/community-clustering/</guid>
+      <description>本项目为第十届（2017）华中地区大学生数学建模邀请赛B题论文。本文针对基于通讯数据的社群聚类问题，对社群网络进行了分类，提出了该问题的有效</description>
+    </item>
+    
+    <item>
+      <title>城市智慧增长</title>
+      <link>https://OwenMasculinity.github.io/zh/project/smart-city/</link>
+      <pubDate>Tue, 14 Feb 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/smart-city/</guid>
+      <description>本项目是2017年美国数学建模大赛(ICM)题目。以下为文章摘要： 随着人口的增加，越来越多的人涌入城市，世界正在迅速城市化。因此，城市规划对</description>
+    </item>
+    
+  </channel>
+</rss>
