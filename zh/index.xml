@@ -7,7 +7,190 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/zh/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bidirectional Encoder Representation with Matching Task for Sequential Recommendation</title>
+      <link>https://OwenMasculinity.github.io/zh/publication/bert-with-matching/</link>
+      <pubDate>Sat, 23 Nov 2019 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/publication/bert-with-matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>人脸攻击系统</title>
+      <link>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/adversarial-sample/</guid>
+      <description>&lt;p&gt;对抗攻击能够通过小幅度修改输入图像，使得神经网络等分类器分类错误。能够误导分类器的输入称为对抗样本。
+&lt;img src=&#34;figure1.png&#34; alt=&#34;&#34; /&gt;
+对抗攻击现在是深度学习领域的研究热点，在信息安全领域有着广泛的应用。本项目将对抗样本技术应用在人脸攻击上面，开发了一款可以欺骗现有人脸识别技术的demo。&lt;/p&gt;
+
+&lt;p&gt;本项目采用黑盒攻击方法，可以使得AWS Rekognition系统人脸分类错误。
+&lt;img src=&#34;figure2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>子·约</title>
+      <link>https://OwenMasculinity.github.io/zh/project/ziyue/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/ziyue/</guid>
+      <description>&lt;p&gt;&lt;code&gt;子·约&lt;/code&gt;系列黄金首饰寓意为父母和子女的约定，品牌DNA为&lt;strong&gt;陪伴&lt;/strong&gt;，品牌口号为&lt;strong&gt;“和为心，福为愿，子约为伴”&lt;/strong&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>云上空间</title>
+      <link>https://OwenMasculinity.github.io/zh/project/cloud-space/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/cloud-space/</guid>
+      <description>&lt;p&gt;&lt;code&gt;云上空间&lt;/code&gt;为社会创新项目，所属城市科学交叉创新领域，致力于为社区提供公共空间更新设计及后续城市社区智慧管理系统一体化解决方案。我们探索社区单位级的数据化、智慧化，通过设计创新优化公共空间的利用，基于数据科学技术（数据建模与分析）进行公共空间设计与管理，为智慧社区研究奠定基础。&lt;/p&gt;
+
+&lt;p&gt;该项目并先后获得&lt;strong&gt;“2019 粤港澳大湾区大学生公益创新创业项目大赛”决赛第一名&lt;/strong&gt;，&lt;strong&gt;“益创星·2019 深圳南山
+区大学生社会创新项目大赛&amp;rdquo; 决赛第二名&lt;/strong&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>寻忆</title>
+      <link>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/seek-memory-album/</guid>
+      <description>&lt;p&gt;目前，AI技术高速发展，语音、图像、自然语言处理等领域成果不断。然而，AI算法落地成为众多新兴企业深入思考的关键问题。基于图像识别的算法落地已在安防、门禁、工业检测、自动驾驶等领域有了产业化的突破，而AI的潜在落地应用场景远不止这些。基于图像和视频指纹技术，我们构建了智能云相册平台，旨在成为用户快速精准寻找相册文件的好帮手。&lt;/p&gt;
+
+&lt;p&gt;考虑到相册的主要和特色功能，考虑到简洁性和易用性，我们将平台命名为“寻忆”，意在寻找回忆，品牌标语即为“没有难以寻找的回忆”。我们将平台标志设计为树叶，从形态上看，也可以理解为羽毛制作的钢笔，包含“记录”之意，从另一个角度来讲，是树叶制作而成的书签，在相册中起到帮助主人寻找所需的作用。网页主题使用绿色和橙色相间，即为四季落叶之色，营造唯美意境。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>标题生成器</title>
+      <link>https://OwenMasculinity.github.io/zh/project/title-trigger/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/title-trigger/</guid>
+      <description>&lt;p&gt;本项目为谷歌AI冬令营项目。 在冬令营期间，我们开发了一款名叫&lt;code&gt;Title Trigger&lt;/code&gt;的NLP产品，包括了以下功能：提取式摘要、生成式摘要、文本风格迁移。产品使用了一些列最新的自然语言处理算法，获得了最佳的性能，并且大幅度的提升了模型训练时间。最终，我们的产品获得了&lt;strong&gt;“最佳技术奖”&lt;/strong&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WeCup</title>
+      <link>https://OwenMasculinity.github.io/zh/project/wecup/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/wecup/</guid>
+      <description>&lt;p&gt;&lt;code&gt;WeCup&lt;/code&gt;为集成了闹钟提醒装置和药盒的一款智能水杯，旨在为老年人以及有服药习惯的年轻人提供更加方便的服药行为体验，并且改变“忘记吃药，不愿吃药”的现状，并且使吃药这件事本身也变得不再被排斥。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>迎宾机器人</title>
+      <link>https://OwenMasculinity.github.io/zh/project/rpi/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/rpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>股票预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/stock-prediction/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/stock-prediction/</guid>
+      <description>&lt;p&gt;本项目为Kaggle数据挖掘竞赛题目。&lt;/p&gt;
+
+&lt;p&gt;这次题目主题是使用新闻数据和股票历史数据来预测未来股票数据的涨跌。提出本次比赛题目的公司是美国纽约著名的对冲基金公司 TWO SIGMA，这是一家使用各种技术，包括人工智能，机器学习和分布式计算来进行交易策略分析的公司。&lt;/p&gt;
+
+&lt;p&gt;股市是一国经济的晴雨表，然而股市受政策、新闻、舆论的影响非常大，容易波动剧烈。因此对股市进行研究很有必要。随着互联网新媒体的发展，人们越来越倾向于通过互联网平台来交流信息，实时股评中包含丰富的金融信息，体现投资者的情绪变化，因此对股市的研究可以考虑从股评入手进行挖掘分析。文本挖掘、机器学习、时间序列模型等技术兴起使得股评挖掘成为了可能。&lt;/p&gt;
+
+&lt;p&gt;在2001年L. Cao和Francis E.H. Tay等人阐述使用支持向量机模型（SVM）对标准普尔500指数进行分析，通过采用几种指标作为特征，并建模预测1993-1994年股票价格的走势，结果达到了一定的准确率，SVM 也被广泛应用于金融领域。Hassan M.R 等人在2007 年提出混合了 HMM（马尔科夫模型），ANN（人工神经网络）和GA（遗传算法）的模型，来使用从雅虎财经网站上收集的数据预测股票的变化，结果比一般的单一模型效果有了进一步的提升。Duan W和Yu Y在2013年基于情感分析的方法研究了社交媒体和传统媒体对于企业价值的影响，发现社交媒体的情绪变化与上市公司股票的关联性更强，市场情绪对于股票的走势也有一定的影响，这一方向也有一定的研究价值。&lt;/p&gt;
+
+&lt;p&gt;目前关于股票走势研究的文章比较多，但是都有一定的局限性，所以TWO SIIGMA公司在Kaggle上的赛题主要是希望参赛选手能够在股票走势方面得到更高的准确率。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>欢迎来到张凌霄的博客</title>
+      <link>https://OwenMasculinity.github.io/zh/post/welcome/</link>
+      <pubDate>Fri, 14 Dec 2018 20:47:31 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/post/welcome/</guid>
+      <description>&lt;p&gt;从现在起，你可以从这里得到关于我的信息。这里是我的家。😄&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&#39;嗨宝计划&#39;平台</title>
+      <link>https://OwenMasculinity.github.io/zh/project/hi-baby/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/hi-baby/</guid>
+      <description>&lt;p&gt;&lt;code&gt;嗨宝计划&lt;/code&gt;面向的客户群体是从备孕至孩子6岁以下的妈咪群体，为她们提供社交、记录、学习、购买等功能，一站式服务，让年轻妈们在有趣的社交与记录的同时，收获备孕带娃专业知识，并体会定制化级服务。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;嗨宝计划&lt;/code&gt;主要分为六大模块： 嗨宝社区、 嗨宝日记、 嗨宝助手、 嗨宝教育、 嗨宝达人 、嗨宝商城。&lt;/p&gt;
+
+&lt;p&gt;通过本平台，80后90后妈咪们可以在嗨宝社区通过拍摄新潮视频的方式晒娃并交流带或购买产品的心得体会，可以每天在嗨宝日记通过输入语音、上传照片并选择模板贴纸的方式制作每日日记，可以通过嗨宝助手根据个人参数指标私人定制食谱和运动量，可以在嗨宝教育模块中听网课问专家，可以在嗨宝达人中找到离你最近的优质孕期瑜伽馆、百天照相及母婴用品店等，可以在嗨宝商城看其他妈咪的大量真实评价并购买正品母婴好货。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>岚</title>
+      <link>https://OwenMasculinity.github.io/zh/project/lan/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/lan/</guid>
+      <description>&lt;p&gt;&lt;code&gt;“岚”&lt;/code&gt;由“山”和“风”构成，象征了山中之风，自由、个性、洒脱。品牌slogan为&lt;strong&gt;“我的个性，收敛自如”&lt;/strong&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Remote Sensing Image Classification Based On Deep Learning</title>
+      <link>https://OwenMasculinity.github.io/zh/publication/remote-sensing-image-classification/</link>
+      <pubDate>Sun, 20 May 2018 10:28:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/publication/remote-sensing-image-classification/</guid>
+      <description>&lt;!--
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>天气预测</title>
+      <link>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/meteorological-prediction/</guid>
+      <description>&lt;p&gt;当前，随着中国经济社会迅速发展，政府和广大人民群众对天气预报的准确率和精细化提出了更高的要求，也对天气预报的针对性、通俗性和指导性提出了新的需求；同时，气象防灾减灾也需要对灾害性天气和气象灾害的监测、预报预警能力的提升。而现在的天气预报都集中在报道一些省、市等大范围的区域，忽略了一些局部的小区域。事实证明，并不是该省市所有地区的天气都和天气预报上的吻合，天气预报报道的是一个大范围的趋势，而很多地区的天气还是可能会与其有所差别。&lt;/p&gt;
+
+&lt;p&gt;此时对于小地区做出区域性的检测就尤为重要，因为大范围的天气预报在这个小区域并不适用，对人们的生产生活造成了极大的影响。因此，日晒强度和降雨概率等更具有小范围的区域特性，更适合在小范围内设网络进行特定区域的监测与预报。&lt;/p&gt;
+
+&lt;p&gt;本项目致力于打造更加精准的短时小区域气象信息服务。针对现阶段气象服务在小区域不准确的问题，本项目基于自主研发智能化的小区域气象监测传感器系统，分析高时间分辨率气象监测数据、大尺度天气预报数据和卫星数据，建立短时小区域的降雨和太阳辐射预测模型，实现小区域气象信息精准服务。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>釉料喷涂的方法</title>
+      <link>https://OwenMasculinity.github.io/zh/project/glaze-spraying/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://OwenMasculinity.github.io/zh/project/glaze-spraying/</guid>
+      <description>&lt;p&gt;本项目是2017年亚太数学建模大赛（APMCM）赛题。&lt;/p&gt;
+
+&lt;p&gt;釉料喷涂是陶瓷生产中的关键过程，但是如何在各种情况下使釉料涂层均匀仍然是一个令人困惑的问题。 通常情况下，针对不同形状的磨具，我们需要建立不同的模型。因此，一个相对通用的策略可以节省很多时间。&lt;/p&gt;
+
+&lt;p&gt;在本文中，我们采用椭圆双β分布模型来获得平面上的厚度累积模型并解决问题1。然后，我们修改了基本模型以使其在处理曲面和球体时适用。 这样，我们成功解决了问题2和3。而由于任何自由形式的曲面都可以看作是几个基本规则曲面的叠加，因此使用分段近似的方法可以很好地解决问题4期。&lt;/p&gt;
+
+&lt;p&gt;我们使用MATLAB仿真来找到最佳解决方案，还对喷雾厚度和喷枪高度进行了敏感性分析。&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
