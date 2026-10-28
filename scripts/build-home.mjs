@@ -1,4 +1,7 @@
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
+
+const styleVersion = createHash('sha256').update(readFileSync('academic.css')).digest('hex').slice(0, 12);
 
 // Verified against the owner's Google Scholar profile on 2026-10-28.
 const scholar = 'https://scholar.google.com/citations?user=sNbks6EAAAAJ&hl=en';
@@ -88,7 +91,7 @@ function render(language, root = false) {
   <link rel="alternate" hreflang="x-default" href="https://owenmasculinity.github.io/en/">
   <meta property="og:type" content="profile"><meta property="og:title" content="${t.title}">
   <meta property="og:description" content="${t.desc}"><meta property="og:image" content="https://owenmasculinity.github.io/img/IMG_3745.JPG">
-  <link rel="stylesheet" href="${base}academic.css">
+  <link rel="stylesheet" href="${base}academic.css?v=${styleVersion}">
 </head>
 <body>
   <a class="skip-link" href="#main">${t.skip}</a>

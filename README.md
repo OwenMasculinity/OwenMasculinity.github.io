@@ -1,32 +1,65 @@
-# Lingxiao Zhang · Academic homepage
+# 张凌霄的个人主页
 
-Static personal website served by GitHub Pages. This repository contains published HTML rather than a complete Hugo source project. No package installation is needed.
+中英文学术个人主页，包含个人简介、论文成果、工作经历与教育背景。
 
-## Update the homepage
+- 默认英文首页：https://owenmasculinity.github.io/
+- 英文版：https://owenmasculinity.github.io/en/
+- 中文版：https://owenmasculinity.github.io/zh/
 
-1. Edit bilingual profile text and publications in `scripts/build-home.mjs`.
-2. Edit `academic.css` for layout and typography.
-3. Run `node scripts/build-home.mjs` (Node.js 18 or later).
-4. Preview with `node scripts/preview.mjs` and visit `http://127.0.0.1:4174/`, `/en/`, and `/zh/`.
+## 修改内容
 
-The generator writes `index.html`, `en/index.html`, and `zh/index.html`. These are checked in for direct GitHub Pages hosting without a build step. Root content matches English; both language versions have explicit language links.
+主页为纯静态 HTML/CSS，无需安装依赖。
 
-## Content sources
+| 文件 | 用途 |
+| --- | --- |
+| `scripts/build-home.mjs` | 中英文简介、论文、经历与教育信息；生成三个首页入口 |
+| `academic.css` | 页面布局、字体与移动端样式 |
+| `index.html` | 默认英文首页，自动生成 |
+| `en/index.html` | 英文首页，自动生成 |
+| `zh/index.html` | 中文首页，自动生成 |
+| `.nojekyll` | 告知 GitHub Pages 直接发布静态文件，跳过 Jekyll |
 
-Affiliation, interests, and the three listed publications were checked against [Google Scholar](https://scholar.google.com/citations?user=sNbks6EAAAAJ&hl=en) on 2026-10-28. The owner confirmed using the Scholar affiliation. No current job title or employment dates have been inferred. Education, portrait, and email come from the previous homepage.
+修改生成脚本或 CSS 后，在仓库根目录运行（Node.js 18+）：
 
-The two 2026 arXiv papers are labeled **preprints**. Match4rec links to its ICONIP 2020 publication and an arXiv PDF. Citation counts remain on Scholar rather than duplicated as static metrics.
+```powershell
+node scripts/build-home.mjs
+```
 
-The introduction and current algorithm-engineer role were updated using the owner's October 2026 résumé. It focuses on LLM agents, search and recommendation, and multimodal retrieval, with a brief mention of prior roles at Huawei and Alibaba. Paper-specific implementation details remain outside the biography. The education section uses the degree names from that résumé. Private résumé contact details and internal performance metrics are not copied to the site.
+请同时提交脚本、CSS 和生成后的 HTML。生成器会根据 CSS 内容自动更新样式链接的版本参数，避免页面继续使用旧缓存样式。无需手工修改生成后的 HTML。
 
-## Layout
+## 本地预览
 
-The layout follows the owner's reference, [Zheqing (Bill) Zhu's homepage](https://www.zheqingbillzhu.com/): a photo and name beside affiliation and contact information, followed by full-width biography paragraphs and compact publication and education lists. Styling uses a white background, plain text links, and a single-column flow below the profile header. At narrow widths the profile header stacks vertically.
+```powershell
+node scripts/preview.mjs
+```
 
-## Earlier material
+打开 http://127.0.0.1:4174/ 。预览仅绑定本机回环地址，按 Ctrl+C 停止。中文路径为 `/zh/`，英文路径为 `/en/`。
 
-Existing project, article, and publication detail URLs are retained. The homepage links to project and writing archives, but no longer features old skill percentages, template tutorials, student office hours, an old campus address, or the third-party contact form. Contact uses a direct email link.
+## 发布到 GitHub Pages
 
-The older `config.toml`, `update_academic.sh`, and `netlify.toml` belong to the legacy Academic/Hugo setup. They do not generate the redesigned homepage. Do not run the old updater to maintain these pages.
+GitHub 仓库的 **Settings → Pages** 配置：
 
-Original Academic theme material remains under its existing MIT license; see `LICENSE.md`.
+- Source：Deploy from a branch
+- Branch：`master`
+- Folder：`/ (root)`
+
+提交并推送到 `master` 后，GitHub 会运行 `pages build and deployment`。等该任务成功，才表示 Pages 部署完成；仅 Git 推送成功并不能证明线上已更新。
+
+发布后应检查默认首页、`/en/` 和 `/zh/`，确认简介、过往经历及页面样式均为新版本。若仍看到旧页面，可先强制刷新，或用 `?v=<提交短哈希>` 重新访问，以区分浏览器/CDN 缓存与部署问题。GitHub Pages 的 HTML 缓存刷新可能不会与 Git 推送同时完成。
+
+如已安装并登录 GitHub CLI，可查看部署状态：
+
+```powershell
+gh run list --repo OwenMasculinity/OwenMasculinity.github.io --limit 5
+gh api repos/OwenMasculinity/OwenMasculinity.github.io/pages/builds/latest
+```
+
+## 历史内容
+
+`en/`、`zh/` 中的旧文章、项目和论文详情页作为历史归档保留，因此归档页可能仍使用原 Academic 主题。主页中的归档链接可以继续访问。
+
+`config.toml`、`netlify.toml` 和 `update_academic.sh` 为早期 Hugo/Academic 配置，不参与当前 GitHub Pages 首页的生成与发布。不要用旧 Hugo 更新脚本覆盖当前首页。
+
+## 许可
+
+原 Academic 主题相关内容遵循仓库中的 MIT 许可，见 [LICENSE.md](LICENSE.md)。
