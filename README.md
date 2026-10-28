@@ -1,52 +1,32 @@
-# Academic Kickstart
+# Lingxiao Zhang · Academic homepage
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
+Static personal website served by GitHub Pages. This repository contains published HTML rather than a complete Hugo source project. No package installation is needed.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+## Update the homepage
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+1. Edit bilingual profile text and publications in `scripts/build-home.mjs`.
+2. Edit `academic.css` for layout and typography.
+3. Run `node scripts/build-home.mjs` (Node.js 18 or later).
+4. Preview with `node scripts/preview.mjs` and visit `http://127.0.0.1:4174/`, `/en/`, and `/zh/`.
 
-## Getting Started
+The generator writes `index.html`, `en/index.html`, and `zh/index.html`. These are checked in for direct GitHub Pages hosting without a build step. Root content matches English; both language versions have explicit language links.
 
-The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
+## Content sources
 
-### Quick install using your web browser
+Affiliation, interests, and the three listed publications were checked against [Google Scholar](https://scholar.google.com/citations?user=sNbks6EAAAAJ&hl=en) on 2026-10-28. The owner confirmed using the Scholar affiliation. No current job title or employment dates have been inferred. Education, portrait, and email come from the previous homepage.
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
+The two 2026 arXiv papers are labeled **preprints**. Match4rec links to its ICONIP 2020 publication and an arXiv PDF. Citation counts remain on Scholar rather than duplicated as static metrics.
 
-### Install on your PC
+The introduction and current algorithm-engineer role were updated using the owner's October 2026 résumé. It focuses on LLM agents, search and recommendation, and multimodal retrieval, with a brief mention of prior roles at Huawei and Alibaba. Paper-specific implementation details remain outside the biography. The education section uses the degree names from that résumé. Private résumé contact details and internal performance metrics are not copied to the site.
 
-Prerequisites:
+## Layout
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+The layout follows the owner's reference, [Zheqing (Bill) Zhu's homepage](https://www.zheqingbillzhu.com/): a photo and name beside affiliation and contact information, followed by full-width biography paragraphs and compact publication and education lists. Styling uses a white background, plain text links, and a single-column flow below the profile header. At narrow widths the profile header stacks vertically.
 
-1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git: 
+## Earlier material
 
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.*
+Existing project, article, and publication detail URLs are retained. The homepage links to project and writing archives, but no longer features old skill percentages, template tutorials, student office hours, an old campus address, or the third-party contact form. Contact uses a direct email link.
 
-2. Initialize the theme:
+The older `config.toml`, `update_academic.sh`, and `netlify.toml` belong to the legacy Academic/Hugo setup. They do not generate the redesigned homepage. Do not run the old updater to maintain these pages.
 
-       cd My_Website
-       git submodule update --init --recursive
-
-3. View your new website:
-      
-       hugo server
-
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
-  
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
-
-## License
-
-Copyright 2017 [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+Original Academic theme material remains under its existing MIT license; see `LICENSE.md`.
