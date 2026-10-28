@@ -69,6 +69,7 @@ const copy = {
     skip: '跳至正文', affiliation: '蚂蚁集团 | 清华大学', footer: '张凌霄 · Lingxiao Zhang'
   }
 };
+const pageVersion = createHash('sha256').update(JSON.stringify({ copy, publications, styleVersion })).digest('hex').slice(0, 12);
 const escape = s => s.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('"', '&quot;');
 function render(language, root = false) {
   const t = copy[language];
@@ -96,9 +97,9 @@ function render(language, root = false) {
 <body>
   <a class="skip-link" href="#main">${t.skip}</a>
   <header class="site-header"><div class="header-inner">
-    <a class="wordmark" href="${base}${language}/">${t.homeTitle}</a>
+    <a class="wordmark" href="${base}${language}/?v=${pageVersion}">${t.homeTitle}</a>
     <nav aria-label="${language === 'en' ? 'Main navigation' : '主导航'}">${t.nav.map((n, i) => `<a href="#${ids[i]}">${n}</a>`).join('')}</nav>
-    <a class="language" lang="${language === 'en' ? 'zh-CN' : 'en'}" href="${base}${t.otherPath}/">${t.otherLang} <span aria-hidden="true">↗</span></a>
+    <a class="language" lang="${language === 'en' ? 'zh-CN' : 'en'}" href="${base}${t.otherPath}/?v=${pageVersion}">${t.otherLang} <span aria-hidden="true">↗</span></a>
   </div></header>
   <main id="main" class="page-layout">
     <div class="profile-header">
